@@ -13,3 +13,7 @@ Usuario: Administrador /// Clave: Administrador
 Este es el proyecto final realizado para el curso de Introducción a los Sistemas
 de Cómputo. Se aplicaron los conocimientos obtenidos de HTML, JS, y PHP en conjunto
 con SQL para poder realizar un control de inventario de computadoras en una compañía.
+
+*** CRÉDITOS ***
+Se utilizó y modificó el código de Carlos Alfaro.
+Video de Referencia: https://www.youtube.com/watch?v=_i8Hk0NDI0M
